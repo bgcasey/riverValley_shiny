@@ -1,0 +1,13 @@
+name: rv_shinyapp
+title:
+username:
+account: bgcasey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4409717
+bundleId: 4921196
+url: https://bgcasey.shinyapps.io/rv_shinyapp/
+when: 1628889863.38177
+lastSyncTime: 1628889863.38178
+asMultiple: FALSE
+asStatic: FALSE

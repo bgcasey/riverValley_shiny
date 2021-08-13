@@ -1,0 +1,49 @@
+﻿name,description
+season,season of the Circuitscape current map the pinch-point was derived
+Reach,region of the Ribbon of Green
+pp_area,area of the pinch-point (m^2)
+trail_proportion,% of pinch-point within 30m of a trail
+road_proportion,% of pinch-point within 30m of a road
+canopy_grass,% comprised of grass
+canopy_shrub_con,% comprised of coniferous shrub
+canopy_shrub_dec,% comprised of deciduous shrub
+canopy_tree_con,% comprised of coniferous trees
+canopy_tree_dec,% comprised of deciduos trees
+PRIMECLASS_NVE,% non vegetated
+PRIMECLASS_VEG,% vegetated
+LANDCLAS_DEV,% developed
+LANDCLAS_MOD,% modified
+LANDCLAS_NAT,% natural
+LANDCLAS_NAW,% naturally wooded
+LANDCLAS_NNW,% naturally non-wooded
+LANDCLAS_WET,% wetland
+STYPE_AF,%  Aggregates and/or fill site 
+STYPE_AIH,% Transportation Surface 
+STYPE_AS,% Acreage Subdivision 
+STYPE_AW,% Anthropogenic Water Body 
+STYPE_BPC,% Building/Parking Complex 
+STYPE_CA,% Annual Crops 
+STYPE_CDS,% Commercial/Industrial Development 
+STYPE_CP,% Tame Pasture 
+STYPE_CPR,% Rough Pasture 
+STYPE_CS,% Closed Shrub 
+STYPE_ECS,% Established Commercial/Industrial 
+STYPE_EMS,% Exposed Mineral Soil 
+STYPE_ERC,% Established Residential Community 
+STYPE_FS,% Farmyard/Acreage 
+STYPE_FT,% Forested 
+STYPE_GF,% Grass Fen 
+STYPE_HG,% Herbaceous Grass 
+STYPE_HT,% Agriculture Hygric Tillage 
+STYPE_M,% Marsh 
+STYPE_MG,% Maintained Grass 
+STYPE_MS,% Medial Shrub 
+STYPE_MT,% Maintained Trails 
+STYPE_NG,% Non maintained Grass/Shrubs 
+STYPE_NMS,% Sand 
+STYPE_NT,% Nursery/Tree Farm 
+STYPE_NW,% Natural Water Body 
+STYPE_OS,% Open Shrub 
+STYPE_RDS,% Residential Development 
+STYPE_TS,% Treed Shelterbelt 
+STYPE_TT,% Transplant Trees 
